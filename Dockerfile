@@ -1,4 +1,4 @@
-FROM rongronggg9/rss-to-telegram:latest
+FROM rongronggg9/rss-to-telegram:dev
 
 WORKDIR /app
 
